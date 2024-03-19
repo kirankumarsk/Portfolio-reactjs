@@ -47,7 +47,7 @@ const SocialLinks = () => {
                 <>
                 Resume 2<BsFillPersonLinesFill size={30}/> </>
             ),
-            href:"../assets/Kiran_Kumar_S_K-BE-121.pdf",
+            href:"../assets/Kiran_Kumar_S_K_122.pdf",
             style:"rounded-tr-md",
             download:true,
         },
